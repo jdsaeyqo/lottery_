@@ -5,7 +5,7 @@
 - 원하는 번호를 넣은 후 나머지 번호를 추첨할 수도 있다.
 
 # 사용 기능  
--ConstraintLayout, NumberPicker, ShapeDrawable
+- ConstraintLayout, NumberPicker, ShapeDrawable
 
 ---
 # 앱 실행 화면
